@@ -1,2 +1,0 @@
-# .github
-organization workspace description
