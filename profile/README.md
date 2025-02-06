@@ -1,4 +1,4 @@
-## Hi there👋, Welcome to StellarLab Workspace
+## Hi there👋, Welcome to JAGGLE.AI Workspace
 
 <!--
 
